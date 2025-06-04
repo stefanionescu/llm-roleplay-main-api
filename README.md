@@ -35,7 +35,6 @@ bun run start
 - 2x API Servers (Node.js)
 - Redis for waitlist management
 - Health Checks
-- Automatic SSL renewal
 
 ## API Endpoints
 
