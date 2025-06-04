@@ -1,4 +1,4 @@
-# Yap Main API
+# LLM Roleplay Main API
 
 REST API service providing RAG (Retrieval Augmented Generation), embeddings, user waitlist management and user registration functionality. Deployed on Hetzner Cloud.
 
