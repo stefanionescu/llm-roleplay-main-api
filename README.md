@@ -29,13 +29,6 @@ bun run build
 bun run start
 ```
 
-## Architecture
-
-- Load Balancer (Nginx)
-- 2x API Servers (Node.js)
-- Redis for waitlist management
-- Health Checks
-
 ## API Endpoints
 
 All endpoints under `/rag` and `/user-management` require a valid API token passed in the `Authorization` header.
